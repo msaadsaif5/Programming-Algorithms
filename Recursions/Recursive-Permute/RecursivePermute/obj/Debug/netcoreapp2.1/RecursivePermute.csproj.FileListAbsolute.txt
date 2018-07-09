@@ -1,0 +1,11 @@
+D:\Learning\Algorithms\Recursions\Recursive-Permute\RecursivePermute\bin\Debug\netcoreapp2.1\RecursivePermute.deps.json
+D:\Learning\Algorithms\Recursions\Recursive-Permute\RecursivePermute\bin\Debug\netcoreapp2.1\RecursivePermute.runtimeconfig.json
+D:\Learning\Algorithms\Recursions\Recursive-Permute\RecursivePermute\bin\Debug\netcoreapp2.1\RecursivePermute.runtimeconfig.dev.json
+D:\Learning\Algorithms\Recursions\Recursive-Permute\RecursivePermute\bin\Debug\netcoreapp2.1\RecursivePermute.dll
+D:\Learning\Algorithms\Recursions\Recursive-Permute\RecursivePermute\bin\Debug\netcoreapp2.1\RecursivePermute.pdb
+D:\Learning\Algorithms\Recursions\Recursive-Permute\RecursivePermute\obj\Debug\netcoreapp2.1\RecursivePermute.csprojAssemblyReference.cache
+D:\Learning\Algorithms\Recursions\Recursive-Permute\RecursivePermute\obj\Debug\netcoreapp2.1\RecursivePermute.csproj.CoreCompileInputs.cache
+D:\Learning\Algorithms\Recursions\Recursive-Permute\RecursivePermute\obj\Debug\netcoreapp2.1\RecursivePermute.AssemblyInfoInputs.cache
+D:\Learning\Algorithms\Recursions\Recursive-Permute\RecursivePermute\obj\Debug\netcoreapp2.1\RecursivePermute.AssemblyInfo.cs
+D:\Learning\Algorithms\Recursions\Recursive-Permute\RecursivePermute\obj\Debug\netcoreapp2.1\RecursivePermute.dll
+D:\Learning\Algorithms\Recursions\Recursive-Permute\RecursivePermute\obj\Debug\netcoreapp2.1\RecursivePermute.pdb
